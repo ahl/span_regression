@@ -1,0 +1,8 @@
+[package]
+name = "span_regression"
+version = "0.1.0"
+authors = ["Adam H. Leventhal <ahl@oxide.computer>"]
+edition = "2018"
+
+[lib]
+proc-macro = true
